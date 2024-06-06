@@ -1,0 +1,1909 @@
+[
+  {
+    "short name": "Die PARTEI",
+    "full name": "Die PARTEI",
+    "candidates": [
+      {
+        "name": "Martin Sonneborn",
+        "occupation": "MdEP",
+        "list position": 1
+      },
+      {
+        "name": "Sibylle Berg",
+        "occupation": null,
+        "list position": 2
+      },
+      {
+        "name": "Katharina Kerbstat",
+        "occupation": "Projektmanagerin und Lifecoach, EU Climate Pact Ambassador",
+        "list position": 3
+      },
+      {
+        "name": "Maximilian Aschenbach",
+        "occupation": null,
+        "list position": 4
+      },
+      {
+        "name": "Florian Wrobel",
+        "occupation": "Geschäftsführer",
+        "list position": 5
+      },
+      {
+        "name": "Paula Erdmann",
+        "occupation": null,
+        "list position": 6
+      },
+      {
+        "name": "Mark Benecke",
+        "occupation": "Kriminalbiologe",
+        "list position": 7
+      },
+      {
+        "name": "Chantal Melissa Wagner",
+        "occupation": null,
+        "list position": 8
+      },
+      {
+        "name": "Andreas Wagner",
+        "occupation": null,
+        "list position": 9
+      },
+      {
+        "name": "Cedrik Wagner",
+        "occupation": null,
+        "list position": 10
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "7"
+  },
+  {
+    "short name": "FREIE WÄHLER",
+    "full name": "FREIE WÄHLER",
+    "candidates": [
+      {
+        "name": "Christine Singer",
+        "occupation": "Bäuerin und Hauswirtschaftsmeisterin",
+        "list position": 1
+      },
+      {
+        "name": "Engin Eroglu",
+        "occupation": "MdEP",
+        "list position": 2
+      },
+      {
+        "name": "Joachim Streit",
+        "occupation": null,
+        "list position": 3
+      },
+      {
+        "name": "Andrea Menke",
+        "occupation": "Unternehmerin",
+        "list position": 4
+      },
+      {
+        "name": "Gregor Voht",
+        "occupation": "Unternehmer",
+        "list position": 5
+      },
+      {
+        "name": "René Weißenberger",
+        "occupation": "Ordnungspolizeibeamter",
+        "list position": 6
+      },
+      {
+        "name": "Anton Steinbach",
+        "occupation": null,
+        "list position": 7
+      },
+      {
+        "name": "Anthony-Robert Lee",
+        "occupation": null,
+        "list position": 8
+      },
+      {
+        "name": "Ludwig Degmayr",
+        "occupation": "Sportjournalist ",
+        "list position": 9
+      },
+      {
+        "name": "Milena Werner",
+        "occupation": null,
+        "list position": 10
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "12"
+  },
+  {
+    "short name": "Partei der Vernunft",
+    "full name": "Partei der Vernunft",
+    "candidates": [
+      {
+        "name": "Dirk Hesse",
+        "occupation": "Unternehmensberater",
+        "list position": 1
+      },
+      {
+        "name": "Thomas Flach",
+        "occupation": null,
+        "list position": 2
+      },
+      {
+        "name": "Markus Mieth",
+        "occupation": null,
+        "list position": 3
+      },
+      {
+        "name": "Irakli Betchvaia",
+        "occupation": "Senior Software Architekt",
+        "list position": 4
+      },
+      {
+        "name": "Rudolf Mayer",
+        "occupation": "KFZ-Entwicklung (ret.)",
+        "list position": 5
+      },
+      {
+        "name": "Jens Alter",
+        "occupation": null,
+        "list position": 6
+      },
+      {
+        "name": "Friedrich Dominicus",
+        "occupation": "Geschäftsführer, Softwareentwickler",
+        "list position": 7
+      },
+      {
+        "name": "Michael Bienek",
+        "occupation": null,
+        "list position": 8
+      },
+      {
+        "name": "Regine Tuckermann",
+        "occupation": null,
+        "list position": 9
+      },
+      {
+        "name": "Jan Hensen",
+        "occupation": null,
+        "list position": 10
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "32"
+  },
+  {
+    "short name": "Partei der Humanisten",
+    "full name": "Partei der Humanisten",
+    "candidates": [
+      {
+        "name": "Sascha Boelcke",
+        "occupation": "Sales Development Representative",
+        "list position": 1
+      },
+      {
+        "name": "Lasse Schäfer",
+        "occupation": "Student",
+        "list position": 2
+      },
+      {
+        "name": "Ole Teschke",
+        "occupation": "stellv. Parteivorsitzender; Auszubildender",
+        "list position": 3
+      },
+      {
+        "name": "Felicitas Klings",
+        "occupation": "Pflegefachkraft Psychiatrie",
+        "list position": 4
+      },
+      {
+        "name": "Lena Andris",
+        "occupation": "Prozessingenieur",
+        "list position": 5
+      },
+      {
+        "name": "Alexander Weiglin",
+        "occupation": "Freiwilliger im Freiwilligen Sozialen Jahr Kultur",
+        "list position": 6
+      },
+      {
+        "name": "Mario Caraggiu",
+        "occupation": "Abteilungsleiter IT-Consulting",
+        "list position": 7
+      },
+      {
+        "name": "Josephine Keller",
+        "occupation": null,
+        "list position": 8
+      },
+      {
+        "name": "Melissa Loos",
+        "occupation": null,
+        "list position": 9
+      },
+      {
+        "name": "Leonie Neu",
+        "occupation": "Studentin",
+        "list position": 10
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "17"
+  },
+  {
+    "short name": "V-Partei³",
+    "full name": "V-Partei³",
+    "candidates": [
+      {
+        "name": "Simon Klopstock",
+        "occupation": "Student der Politikwissenschaften",
+        "list position": 1
+      },
+      {
+        "name": "Constanze Beck",
+        "occupation": "Product Owner",
+        "list position": 2
+      },
+      {
+        "name": "Alexandra Munir-Muuß",
+        "occupation": "selbstständig Betreiberin von zwei Coffeeshops",
+        "list position": 3
+      },
+      {
+        "name": "Angelika Selbmann",
+        "occupation": "Sekretärin",
+        "list position": 4
+      },
+      {
+        "name": "Johann Kiermaier",
+        "occupation": "Rettungsassistent",
+        "list position": 5
+      },
+      {
+        "name": "Denis Ehrhardt",
+        "occupation": "Dipl.-Verwaltungswirt",
+        "list position": 6
+      },
+      {
+        "name": "Anna Simon",
+        "occupation": "Studentin der Informatik",
+        "list position": 7
+      },
+      {
+        "name": "Hannes Grünbeck",
+        "occupation": "Student der Informatik",
+        "list position": 8
+      },
+      {
+        "name": "Kristin Burger",
+        "occupation": "Tierpflegerin",
+        "list position": 9
+      },
+      {
+        "name": "Amelie Zimmt",
+        "occupation": "Einzelhandelskauffrau",
+        "list position": 10
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "34"
+  },
+  {
+    "short name": "PIRATEN",
+    "full name": "PIRATEN",
+    "candidates": [
+      {
+        "name": "Anja Hirschel",
+        "occupation": "IT-Support",
+        "list position": 1
+      },
+      {
+        "name": "Anne Herpertz",
+        "occupation": "Bezirksbeirätin in der Dresdner Neustadt",
+        "list position": 2
+      },
+      {
+        "name": "Lukas Küffner",
+        "occupation": "Masterstudent BWL",
+        "list position": 3
+      },
+      {
+        "name": "Sven Bechen",
+        "occupation": "Student",
+        "list position": 4
+      },
+      {
+        "name": "Falk-Peter Hirschel",
+        "occupation": "Rechtsanwalt",
+        "list position": 5
+      },
+      {
+        "name": "Wolf Vincent Lübcke",
+        "occupation": null,
+        "list position": 6
+      },
+      {
+        "name": "Schoresch Davoodi",
+        "occupation": null,
+        "list position": 7
+      },
+      {
+        "name": "Sabine Schumacher",
+        "occupation": null,
+        "list position": 8
+      },
+      {
+        "name": "Franz-Josef Schmitt",
+        "occupation": null,
+        "list position": 9
+      },
+      {
+        "name": "Paul Diegel",
+        "occupation": null,
+        "list position": 10
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "9"
+  },
+  {
+    "short name": "dieBasis",
+    "full name": "dieBasis",
+    "candidates": [
+      {
+        "name": "Isabel Graumann",
+        "occupation": "Hebamme/Heipraktiker",
+        "list position": 1
+      },
+      {
+        "name": "Anton Körner",
+        "occupation": "Selbstständig",
+        "list position": 2
+      },
+      {
+        "name": "Michaele Kundermann",
+        "occupation": "Dozentin und Therapeutin",
+        "list position": 3
+      },
+      {
+        "name": "Dirk Gintzel",
+        "occupation": "Lehrer",
+        "list position": 4
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "26"
+  },
+  {
+    "short name": "Bündnis Deutschland",
+    "full name": "Bündnis Deutschland",
+    "candidates": [
+      {
+        "name": "Lars Patrick Berg",
+        "occupation": "Abgeordneter im Europäischen Parlament",
+        "list position": 1
+      },
+      {
+        "name": "Niklas Stadelmann",
+        "occupation": "Verwaltungsleiter & Kirchenmusiker",
+        "list position": 2
+      },
+      {
+        "name": "Norbert Dippel",
+        "occupation": "Rechtsanwalt",
+        "list position": 3
+      },
+      {
+        "name": "Johannes W. M. Braun",
+        "occupation": "Geschäftsführer",
+        "list position": 4
+      },
+      {
+        "name": "Benjamin Bornschein",
+        "occupation": "Gymnasiallehrer",
+        "list position": 5
+      },
+      {
+        "name": "Ralph Kleemann",
+        "occupation": "Personalleiter",
+        "list position": 6
+      },
+      {
+        "name": "Arne Schefer",
+        "occupation": "IT-Projektleiter",
+        "list position": 7
+      },
+      {
+        "name": "Nicolai Livonius",
+        "occupation": "Unternehmensjurist",
+        "list position": 8
+      },
+      {
+        "name": "Jörg Gehrke",
+        "occupation": "Immobilienmakler",
+        "list position": 9
+      },
+      {
+        "name": "Gerhard Weihrather",
+        "occupation": "Software-Engineer",
+        "list position": 10
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "27"
+  },
+  {
+    "short name": "Tierschutzpartei",
+    "full name": "Tierschutzpartei",
+    "candidates": [
+      {
+        "name": "Sebastian Everding",
+        "occupation": "Nachhaltigkeitsunternehmer",
+        "list position": 1
+      },
+      {
+        "name": "Aída Paola Spiegeler Castañeda",
+        "occupation": null,
+        "list position": 2
+      },
+      {
+        "name": "Robert Gabel",
+        "occupation": null,
+        "list position": 3
+      },
+      {
+        "name": "Miriam Broux",
+        "occupation": "Betriebsratsassistentin ",
+        "list position": 4
+      },
+      {
+        "name": "Paula López Vicente",
+        "occupation": "Bundesvorsitzende der PARTEI MENSCH UMWELT TIERSCHUTZ",
+        "list position": 5
+      },
+      {
+        "name": "Barbara Schwarz",
+        "occupation": "Kaufmännische Angestellte/Sekretärin",
+        "list position": 6
+      },
+      {
+        "name": "Claus Dethlefs",
+        "occupation": "Pensionär",
+        "list position": 7
+      },
+      {
+        "name": "Susanne Wittmann",
+        "occupation": "Ärztin, Bezirksrätin",
+        "list position": 8
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "8"
+  },
+  {
+    "short name": "Bündnis C",
+    "full name": "Bündnis C",
+    "candidates": [
+      {
+        "name": "Karin Heepen",
+        "occupation": "Freiberufliche Dozentin",
+        "list position": 1
+      },
+      {
+        "name": "Jürgen Graalfs",
+        "occupation": null,
+        "list position": 2
+      },
+      {
+        "name": "Andrea Rehwald",
+        "occupation": "Vertriebsmitarbeiterin",
+        "list position": 3
+      },
+      {
+        "name": "Rainer Simon",
+        "occupation": "Arzt",
+        "list position": 4
+      },
+      {
+        "name": "Norbert Höhl",
+        "occupation": "Lehrer",
+        "list position": 5
+      },
+      {
+        "name": "Ludwig Grünert",
+        "occupation": "Notfallsanitäter",
+        "list position": 6
+      },
+      {
+        "name": "Stefan Jacobs",
+        "occupation": null,
+        "list position": 7
+      },
+      {
+        "name": "Ute Büschkens-Schmidt",
+        "occupation": "Kauffrau",
+        "list position": 8
+      },
+      {
+        "name": "Klaus Jürgen Pütz",
+        "occupation": null,
+        "list position": 9
+      },
+      {
+        "name": "Hermann Bohnenkamp",
+        "occupation": null,
+        "list position": 10
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "19"
+  },
+  {
+    "short name": "Volt",
+    "full name": "Volt",
+    "candidates": [
+      {
+        "name": "Damian Boeselager",
+        "occupation": "MdEP, Volt Europa",
+        "list position": 1
+      },
+      {
+        "name": "Nela Riehl",
+        "occupation": "Lehrerin / Studienrätin",
+        "list position": 2
+      },
+      {
+        "name": "Kai Tegethoff",
+        "occupation": "Fraktionsgeschäftsführer",
+        "list position": 3
+      },
+      {
+        "name": "Rebekka Müller",
+        "occupation": "Projektmanagerin",
+        "list position": 4
+      },
+      {
+        "name": "Yasemin Efiloglu",
+        "occupation": "Digital Strategin",
+        "list position": 5
+      },
+      {
+        "name": "Joachim Wilcke",
+        "occupation": "Büroleiter im Europaparlament",
+        "list position": 6
+      },
+      {
+        "name": "Anica Nerlich",
+        "occupation": null,
+        "list position": 7
+      },
+      {
+        "name": "Sahak Ibrahimkhil",
+        "occupation": null,
+        "list position": 8
+      },
+      {
+        "name": "Sisi (Thi Thuc) Tran",
+        "occupation": null,
+        "list position": 9
+      },
+      {
+        "name": "Osama Kezzo",
+        "occupation": null,
+        "list position": 10
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "10"
+  },
+  {
+    "short name": "DAVA",
+    "full name": "Demokratische Allianz für Vielfalt und Aufbruch (DAVA)",
+    "candidates": [
+      {
+        "name": "Fatih Zingal",
+        "occupation": "Rechtsanwalt",
+        "list position": 1
+      },
+      {
+        "name": "Ali Ihsan Ünlü",
+        "occupation": "Arzt",
+        "list position": 2
+      },
+      {
+        "name": "Mustafa Yoldaş",
+        "occupation": "Allgemeinmediziner",
+        "list position": 3
+      },
+      {
+        "name": "Seyed Mohammad Hadi Ale Hosseini",
+        "occupation": "Entrepreneur und Unternehmensberater",
+        "list position": 4
+      },
+      {
+        "name": "Remziye Yonca Kayaoglu",
+        "occupation": null,
+        "list position": 5
+      },
+      {
+        "name": "Melanie Gündüz",
+        "occupation": null,
+        "list position": 6
+      },
+      {
+        "name": "Merve Nur Lacin",
+        "occupation": null,
+        "list position": 7
+      },
+      {
+        "name": "Hassan Ied",
+        "occupation": null,
+        "list position": 8
+      },
+      {
+        "name": "Ferhat Aktas",
+        "occupation": null,
+        "list position": 9
+      },
+      {
+        "name": "Seda Yilmaz",
+        "occupation": null,
+        "list position": 10
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "29"
+  },
+  {
+    "short name": "Partei für schulmedizinische Verjüngungsforschung",
+    "full name": "Partei für schulmedizinische Verjüngungsforschung",
+    "candidates": [
+      {
+        "name": "Felix Werth",
+        "occupation": null,
+        "list position": 1
+      },
+      {
+        "name": "Sandra Borst",
+        "occupation": null,
+        "list position": 2
+      },
+      {
+        "name": "Vitalii Winter",
+        "occupation": null,
+        "list position": 3
+      },
+      {
+        "name": "Andrea Beyerlein",
+        "occupation": null,
+        "list position": 4
+      },
+      {
+        "name": "Peter Schippl",
+        "occupation": "Rentner",
+        "list position": 5
+      },
+      {
+        "name": "Barbara Brigitte Heubusch",
+        "occupation": "Lagerfachkraft",
+        "list position": 6
+      },
+      {
+        "name": "Karl-Friedrich Harter",
+        "occupation": "Unternehmer",
+        "list position": 7
+      },
+      {
+        "name": "Johannes Häfner",
+        "occupation": null,
+        "list position": 8
+      },
+      {
+        "name": "Frank Seifert",
+        "occupation": null,
+        "list position": 9
+      },
+      {
+        "name": "Nick Rosenkranz",
+        "occupation": null,
+        "list position": 10
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "20"
+  },
+  {
+    "short name": "CDU",
+    "full name": "CDU",
+    "candidates": [
+      {
+        "name": "Peter Liese",
+        "occupation": "MdEP",
+        "list position": 1
+      },
+      {
+        "name": "Sabine Verheyen",
+        "occupation": "MdEP",
+        "list position": 2
+      },
+      {
+        "name": "Dennis Radtke",
+        "occupation": "MdEP",
+        "list position": 3
+      },
+      {
+        "name": "Verena Mertens",
+        "occupation": null,
+        "list position": 4
+      },
+      {
+        "name": "Axel Voss",
+        "occupation": "MdEP",
+        "list position": 5
+      },
+      {
+        "name": "Stefan Berger",
+        "occupation": "MdEP",
+        "list position": 6
+      },
+      {
+        "name": "Miriam Viehmann",
+        "occupation": null,
+        "list position": 7
+      },
+      {
+        "name": "Sabrina Salomon",
+        "occupation": null,
+        "list position": 8
+      },
+      {
+        "name": "Jennifer Szeyffert",
+        "occupation": null,
+        "list position": 9
+      },
+      {
+        "name": "Gisela Grabow",
+        "occupation": null,
+        "list position": 10
+      }
+    ],
+    "election list": "Liste für das Land Nordrhein-Westfalen",
+    "list_position": "1"
+  },
+  {
+    "short name": "ÖDP",
+    "full name": "ÖDP",
+    "candidates": [
+      {
+        "name": "Manuela Ripa",
+        "occupation": "Juristin, MdEP",
+        "list position": 1
+      },
+      {
+        "name": "Michael Stöhr",
+        "occupation": "Physiker / Senior Consultant",
+        "list position": 2
+      },
+      {
+        "name": "Alina Möller",
+        "occupation": "Landesvorsitzende der JÖ NRW ",
+        "list position": 3
+      },
+      {
+        "name": "Guido Klamt",
+        "occupation": "freigestellter Betriebsrat und Regionalrat in der Regionalversammlung Stuttgart",
+        "list position": 4
+      },
+      {
+        "name": "Agnes Becker",
+        "occupation": "Parteivorsitzende, Kreisrätin ",
+        "list position": 5
+      },
+      {
+        "name": "Andrea Brieger",
+        "occupation": "Datenschutzbeauftragte",
+        "list position": 6
+      },
+      {
+        "name": "Tobias Ruff",
+        "occupation": "Gewässerökologe, Stadtrat",
+        "list position": 7
+      },
+      {
+        "name": "Charlotte Schmid",
+        "occupation": "Übersetzerin, ÖDP-Bundesvorsitzende",
+        "list position": 8
+      },
+      {
+        "name": "Jeyaratnam Caniceus",
+        "occupation": "Elektrotechnikermeister, Stadtrat",
+        "list position": 9
+      },
+      {
+        "name": "Jens Geibel",
+        "occupation": "Handwerksmeister",
+        "list position": 10
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "13"
+  },
+  {
+    "short name": "Klimaliste",
+    "full name": "Klimaliste",
+    "candidates": [
+      {
+        "name": "Verena Hofmann",
+        "occupation": "Psychotherapeutin in Ausbildung",
+        "list position": 1
+      },
+      {
+        "name": "Mitja Stachowiak",
+        "occupation": "Elektroingenieur",
+        "list position": 2
+      },
+      {
+        "name": "Nicolin Gabrysch",
+        "occupation": "Aktivistin, Stadträtin",
+        "list position": 3
+      },
+      {
+        "name": "Chris Loehr",
+        "occupation": "Redakteur",
+        "list position": 4
+      },
+      {
+        "name": "Ayla Kara",
+        "occupation": "Studentin",
+        "list position": 5
+      },
+      {
+        "name": "Martin Schöne",
+        "occupation": "Projektleiter / Klimaschützer",
+        "list position": 6
+      },
+      {
+        "name": "Susanne Erb",
+        "occupation": null,
+        "list position": 7
+      },
+      {
+        "name": "Christoph Zwickler",
+        "occupation": null,
+        "list position": 8
+      },
+      {
+        "name": "Alexandra Arndt",
+        "occupation": "Studentin",
+        "list position": 9
+      },
+      {
+        "name": "Günther Beikert",
+        "occupation": null,
+        "list position": 10
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "30"
+  },
+  {
+    "short name": "BSW",
+    "full name": "Bündnis Sahra Wagenknecht - Vernunft und Gerechtigkeit",
+    "candidates": [
+      {
+        "name": "Fabio De Masi",
+        "occupation": "Spitzenkandidat Bündnis Sahra Wagenknecht (BSW) zur Europawahl ",
+        "list position": 1
+      },
+      {
+        "name": "Thomas Geisel",
+        "occupation": "Anwalt, Berater, Publizist",
+        "list position": 2
+      },
+      {
+        "name": "Michael von der Schulenburg",
+        "occupation": null,
+        "list position": 3
+      },
+      {
+        "name": "Ruth Firmenich",
+        "occupation": "Parlamentarische Assistentin im Europäischen Parlament, Wissenschaftliche Mitarbeiterin",
+        "list position": 4
+      },
+      {
+        "name": "Hans-Peter Warnke",
+        "occupation": null,
+        "list position": 5
+      },
+      {
+        "name": "Friedrich Pürner",
+        "occupation": null,
+        "list position": 6
+      },
+      {
+        "name": "Erkan Kocalar",
+        "occupation": null,
+        "list position": 7
+      },
+      {
+        "name": "Judith Benda",
+        "occupation": "Referentin/ Leiterin Verbindungsbüro Brüssel DIE LINKE im Bundestag",
+        "list position": 8
+      },
+      {
+        "name": "Michael Lüders",
+        "occupation": "Politikberater, Publizist, Autor",
+        "list position": 9
+      },
+      {
+        "name": "Jutta Matuschek",
+        "occupation": null,
+        "list position": 10
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "28"
+  },
+  {
+    "short name": "DKP",
+    "full name": "DKP",
+    "candidates": [
+      {
+        "name": "Patrik Köbele",
+        "occupation": "Angestellter",
+        "list position": 1
+      },
+      {
+        "name": "Andrea Hornung",
+        "occupation": null,
+        "list position": 2
+      },
+      {
+        "name": "Manaf Saleh",
+        "occupation": "Augenoptikermeister",
+        "list position": 3
+      },
+      {
+        "name": "Shabnam Shariatpanahi",
+        "occupation": null,
+        "list position": 4
+      },
+      {
+        "name": "Nikolaos Papadopoulos",
+        "occupation": "Servicetechniker",
+        "list position": 5
+      },
+      {
+        "name": "Barbara Majd Amin",
+        "occupation": "Pensionärin",
+        "list position": 6
+      },
+      {
+        "name": "Malte Klingforth",
+        "occupation": null,
+        "list position": 7
+      },
+      {
+        "name": "Meike Siefker",
+        "occupation": "Altenpflegerin",
+        "list position": 8
+      },
+      {
+        "name": "Gerd Brucks",
+        "occupation": null,
+        "list position": 9
+      },
+      {
+        "name": "Tatjana Sambale",
+        "occupation": "Studentin",
+        "list position": 10
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "23"
+  },
+  {
+    "short name": "MERA25",
+    "full name": "MERA25",
+    "candidates": [
+      {
+        "name": "Karin De Rigo",
+        "occupation": "Einkäuferin",
+        "list position": 1
+      },
+      {
+        "name": "Johannes Fehr",
+        "occupation": "Wirtschaftsingenieur",
+        "list position": 2
+      },
+      {
+        "name": "Vasileia Ismini Alexaki",
+        "occupation": "Biologin",
+        "list position": 3
+      },
+      {
+        "name": "Vincent Welsch",
+        "occupation": "Auszubildender",
+        "list position": 4
+      },
+      {
+        "name": "Antonia Milbert",
+        "occupation": "Wissenschaftliche Projektleiterin",
+        "list position": 5
+      },
+      {
+        "name": "Konstantinos Tselios",
+        "occupation": "Student",
+        "list position": 6
+      },
+      {
+        "name": "Judith Meyer",
+        "occupation": "Computerlinguistin",
+        "list position": 7
+      },
+      {
+        "name": "Grigoris Koutsogkilas",
+        "occupation": "Produktionsmitarbeiter",
+        "list position": 8
+      },
+      {
+        "name": "Faraz Baghaei",
+        "occupation": "Film- und Theaterregisseur",
+        "list position": 9
+      },
+      {
+        "name": "Luca Di Bernardo",
+        "occupation": "Geschäftsführer",
+        "list position": 10
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "15"
+  },
+  {
+    "short name": "PdF",
+    "full name": "Partei des Fortschritts",
+    "candidates": [
+      {
+        "name": "Lukas Sieper",
+        "occupation": null,
+        "list position": 1
+      },
+      {
+        "name": "Tobias Blicker",
+        "occupation": "Wissenschaftlicher Mitarbeiter Bürokratiekostenmessung",
+        "list position": 2
+      },
+      {
+        "name": "Patrick Söhnen",
+        "occupation": null,
+        "list position": 3
+      },
+      {
+        "name": "Erik Oetjen",
+        "occupation": "Student Dpl.-Informatik",
+        "list position": 4
+      },
+      {
+        "name": "Paul Strauß",
+        "occupation": null,
+        "list position": 5
+      },
+      {
+        "name": "Luka Götze",
+        "occupation": null,
+        "list position": 6
+      },
+      {
+        "name": "Peter Klaus",
+        "occupation": null,
+        "list position": 7
+      },
+      {
+        "name": "Sven Jasper",
+        "occupation": "Softwareentwickler",
+        "list position": 8
+      },
+      {
+        "name": "Ron Fischer",
+        "occupation": null,
+        "list position": 9
+      },
+      {
+        "name": "Lukas Wunderlich",
+        "occupation": null,
+        "list position": 10
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "33"
+  },
+  {
+    "short name": "Die Heimat",
+    "full name": "Die Heimat",
+    "candidates": [
+      {
+        "name": "Udo Voigt",
+        "occupation": "Kleinunternehmer",
+        "list position": 1
+      },
+      {
+        "name": "Ronny Zasowk",
+        "occupation": "Politikwissenschaftler",
+        "list position": 2
+      },
+      {
+        "name": "Claus Cremer",
+        "occupation": "Angestellter / Stadtratsabgeordneter ",
+        "list position": 3
+      },
+      {
+        "name": "Ariane Meise",
+        "occupation": "Rechtsanwältin",
+        "list position": 4
+      },
+      {
+        "name": "Sebastian Schmidtke",
+        "occupation": "Kaufmann",
+        "list position": 5
+      },
+      {
+        "name": "Peter Schreiber",
+        "occupation": "Geschäftsführer und Chefredakteur",
+        "list position": 6
+      },
+      {
+        "name": "Sascha Krolzig",
+        "occupation": "Verleger",
+        "list position": 7
+      },
+      {
+        "name": "Sascha Roßmüller",
+        "occupation": null,
+        "list position": 8
+      },
+      {
+        "name": "Frank Rennicke",
+        "occupation": null,
+        "list position": 9
+      },
+      {
+        "name": "Nico Koal",
+        "occupation": null,
+        "list position": 10
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "18"
+  },
+  {
+    "short name": "Tierschutz hier!",
+    "full name": "Aktion Partei für Tierschutz",
+    "candidates": [
+      {
+        "name": "Cornelia Keisel",
+        "occupation": "Tierschützerin",
+        "list position": 1
+      },
+      {
+        "name": "Berit Zalbertus",
+        "occupation": "Senior Key Account Manager Vertrieb",
+        "list position": 2
+      },
+      {
+        "name": "Ayhan Yildirim",
+        "occupation": "Business Expert Yard Management",
+        "list position": 3
+      },
+      {
+        "name": "Thomas Schwarz",
+        "occupation": "Dipl. Pädagoge",
+        "list position": 4
+      },
+      {
+        "name": "Ben Hammouda Touaibia",
+        "occupation": "Tierschützer",
+        "list position": 5
+      },
+      {
+        "name": "Jessica Westerteicher",
+        "occupation": "Tierschützerin",
+        "list position": 6
+      },
+      {
+        "name": "Ralf Lietzke",
+        "occupation": "Biotechniker",
+        "list position": 7
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "16"
+  },
+  {
+    "short name": "Sozialistische Gleichheitspartei",
+    "full name": "Sozialistische Gleichheitspartei",
+    "candidates": [
+      {
+        "name": "Christoph Vandreier",
+        "occupation": null,
+        "list position": 1
+      },
+      {
+        "name": "Ulrich Rippert",
+        "occupation": null,
+        "list position": 2
+      },
+      {
+        "name": "Hans Dietmar Gaisenkersting",
+        "occupation": null,
+        "list position": 3
+      },
+      {
+        "name": "Katja Rippert",
+        "occupation": null,
+        "list position": 4
+      },
+      {
+        "name": "Angela Niklaus",
+        "occupation": null,
+        "list position": 5
+      },
+      {
+        "name": "Gregor Konrad Kahl",
+        "occupation": null,
+        "list position": 6
+      },
+      {
+        "name": "Marianne Arens",
+        "occupation": "Journalistin",
+        "list position": 7
+      },
+      {
+        "name": "Saravanamuthu Ratnamaheson",
+        "occupation": "Netzwerkadministrator",
+        "list position": 8
+      },
+      {
+        "name": "Thomas Schrödl",
+        "occupation": null,
+        "list position": 9
+      },
+      {
+        "name": "Martin Mauer",
+        "occupation": null,
+        "list position": 10
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "24"
+  },
+  {
+    "short name": "BIG",
+    "full name": "Bündnis für Innovation & Gerechtigkeit",
+    "candidates": [
+      {
+        "name": "Haluk Yildiz",
+        "occupation": "Unternehmensberater",
+        "list position": 1
+      },
+      {
+        "name": "Ismet Misirlioğlu",
+        "occupation": "Unternehmer",
+        "list position": 2
+      },
+      {
+        "name": "Faissal Wardak",
+        "occupation": "Geschäftsführer",
+        "list position": 3
+      },
+      {
+        "name": "Sema Kuzucu",
+        "occupation": null,
+        "list position": 4
+      },
+      {
+        "name": "Tarek Ali",
+        "occupation": null,
+        "list position": 5
+      },
+      {
+        "name": "Saša Olević",
+        "occupation": "Wirtschaftsinformatiker",
+        "list position": 6
+      },
+      {
+        "name": "Gürel Akkaya",
+        "occupation": "Maschinenführer",
+        "list position": 7
+      },
+      {
+        "name": "Cemile Acar-Gökce",
+        "occupation": null,
+        "list position": 8
+      },
+      {
+        "name": "Mümün Uluc",
+        "occupation": "TV-Moderator",
+        "list position": 9
+      },
+      {
+        "name": "Kaisa Ilunga",
+        "occupation": "Journalist und Publizist",
+        "list position": 10
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "14"
+  },
+  {
+    "short name": "LETZTE GENERATION",
+    "full name": "Parlament aufmischen – Stimme der Letzten Generation",
+    "candidates": [
+      {
+        "name": "Lina Johnsen",
+        "occupation": "Studentin, Klimakleberin",
+        "list position": 1
+      },
+      {
+        "name": "Theodor Schnarr",
+        "occupation": "Doktorand der Biochemie",
+        "list position": 2
+      },
+      {
+        "name": "Carla Hinrichs",
+        "occupation": "Studentin",
+        "list position": 3
+      },
+      {
+        "name": "Raúl Semmler",
+        "occupation": null,
+        "list position": 4
+      },
+      {
+        "name": "Henning Jeschke",
+        "occupation": "Klimaschützer",
+        "list position": 5
+      },
+      {
+        "name": "Lars Werner",
+        "occupation": "Klimaaktivist",
+        "list position": 6
+      },
+      {
+        "name": "Christian Bläul",
+        "occupation": "Software-Entwickler im Bereich Erneuerbare Energien",
+        "list position": 7
+      },
+      {
+        "name": "Jana Mestmäcker",
+        "occupation": "Psychologin",
+        "list position": 8
+      },
+      {
+        "name": "Marion Fabian",
+        "occupation": "Klimaaktivistin, Sprecherin der Letzten Generation",
+        "list position": 9
+      },
+      {
+        "name": "Marlen Stolze",
+        "occupation": null,
+        "list position": 10
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "31"
+  },
+  {
+    "short name": "FAMILIEN-PARTEI",
+    "full name": "FAMILIEN-PARTEI",
+    "candidates": [
+      {
+        "name": "Helmut Geuking",
+        "occupation": "MdEP",
+        "list position": 1
+      },
+      {
+        "name": "Niels Geuking",
+        "occupation": "Student der Rechtswissenschaften",
+        "list position": 2
+      },
+      {
+        "name": "Sarah Drewes",
+        "occupation": null,
+        "list position": 3
+      },
+      {
+        "name": "Kirsten Bollongino",
+        "occupation": "Ärztin",
+        "list position": 4
+      },
+      {
+        "name": "Sandra Seyfarth",
+        "occupation": null,
+        "list position": 5
+      },
+      {
+        "name": "Lutz Müller",
+        "occupation": null,
+        "list position": 6
+      },
+      {
+        "name": "Mike Huesmann",
+        "occupation": null,
+        "list position": 7
+      },
+      {
+        "name": "Robert Kölling",
+        "occupation": null,
+        "list position": 8
+      },
+      {
+        "name": "Kristin Hammer",
+        "occupation": null,
+        "list position": 9
+      },
+      {
+        "name": "Manfred Klich",
+        "occupation": null,
+        "list position": 10
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "11"
+  },
+  {
+    "short name": "MLPD",
+    "full name": "MLPD",
+    "candidates": [
+      {
+        "name": "Monika Gärtner-Engel",
+        "occupation": "freie Pubilizistin",
+        "list position": 1
+      },
+      {
+        "name": "Gabriele Fechtner",
+        "occupation": "Parteivorsitzende der MLPD",
+        "list position": 2
+      },
+      {
+        "name": "Stefan Engel",
+        "occupation": "freier Pubilizist",
+        "list position": 3
+      },
+      {
+        "name": "Anna Schmit",
+        "occupation": "Krankenschwester",
+        "list position": 4
+      },
+      {
+        "name": "Fritz Ullmann",
+        "occupation": "Redakteur",
+        "list position": 5
+      },
+      {
+        "name": "Lisa Gärtner",
+        "occupation": "Mechatronikerin",
+        "list position": 6
+      },
+      {
+        "name": "Sarah Rissmann",
+        "occupation": "Lehrerin",
+        "list position": 7
+      },
+      {
+        "name": "Nuran Çakmakli-Kraft",
+        "occupation": "Technische Zeichnerin / Schulhausmeisterin",
+        "list position": 8
+      },
+      {
+        "name": "Peter Weispfenning",
+        "occupation": "Rechtsanwalt",
+        "list position": 9
+      },
+      {
+        "name": "Celina Jacobs",
+        "occupation": "Mediengestalterin Digital und Druck",
+        "list position": 10
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "22"
+  },
+  {
+    "short name": "MENSCHLICHE WELT",
+    "full name": "MENSCHLICHE WELT",
+    "candidates": [
+      {
+        "name": "Dominik Laur",
+        "occupation": null,
+        "list position": 1
+      },
+      {
+        "name": "Caffer Azbak",
+        "occupation": "Angestellter",
+        "list position": 2
+      },
+      {
+        "name": "Ursula Krause",
+        "occupation": null,
+        "list position": 3
+      },
+      {
+        "name": "Marcel Lang",
+        "occupation": null,
+        "list position": 4
+      },
+      {
+        "name": "Bettina Tautz",
+        "occupation": null,
+        "list position": 5
+      },
+      {
+        "name": "Sahin Azbak",
+        "occupation": null,
+        "list position": 6
+      },
+      {
+        "name": "Achim Reschke",
+        "occupation": null,
+        "list position": 7
+      },
+      {
+        "name": "Elias Rolf",
+        "occupation": "Redakteur",
+        "list position": 8
+      },
+      {
+        "name": "Sabine Spring",
+        "occupation": null,
+        "list position": 9
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "21"
+  },
+  {
+    "short name": "ABG",
+    "full name": "Aktion Bürger für Gerechtigkeit (ABG)",
+    "candidates": [
+      {
+        "name": "Loreen Helga Bermuske",
+        "occupation": null,
+        "list position": 1
+      },
+      {
+        "name": "Eva Hemm",
+        "occupation": null,
+        "list position": 2
+      },
+      {
+        "name": "Alexandra Theresa Kolb",
+        "occupation": null,
+        "list position": 3
+      },
+      {
+        "name": "Alfred Dorn",
+        "occupation": null,
+        "list position": 4
+      },
+      {
+        "name": "Olaf Margraf",
+        "occupation": null,
+        "list position": 5
+      },
+      {
+        "name": "Edith Gertrud Schaber",
+        "occupation": null,
+        "list position": 6
+      },
+      {
+        "name": "Roswitha Schmalisch",
+        "occupation": null,
+        "list position": 7
+      },
+      {
+        "name": "Eva Maria Hildegard Fox",
+        "occupation": null,
+        "list position": 8
+      },
+      {
+        "name": "David Lukas Hemm",
+        "occupation": null,
+        "list position": 9
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "25"
+  },
+  {
+    "short name": "FDP",
+    "full name": "FDP",
+    "candidates": [
+      {
+        "name": "Marie-Agnes Strack-Zimmermann",
+        "occupation": "MdB",
+        "list position": 1
+      },
+      {
+        "name": "Svenja Hahn",
+        "occupation": "MdEP",
+        "list position": 2
+      },
+      {
+        "name": "Andreas Glück",
+        "occupation": "MdEP, Facharzt für Chirurgie",
+        "list position": 3
+      },
+      {
+        "name": "Moritz Körner",
+        "occupation": "MdEP",
+        "list position": 4
+      },
+      {
+        "name": "Jan-Christoph Oetjen",
+        "occupation": "MdEP",
+        "list position": 5
+      },
+      {
+        "name": "Isabel Schnitzler",
+        "occupation": "Rechtsanwältin",
+        "list position": 6
+      },
+      {
+        "name": "Phil Hackemann",
+        "occupation": "Journalist",
+        "list position": 7
+      },
+      {
+        "name": "Martin Hoeck",
+        "occupation": "Büroleiter im Deutschen Bundestag",
+        "list position": 8
+      },
+      {
+        "name": "Helmer Krane",
+        "occupation": "Senior Legal Counsel - Syndikusrechtsanwalt",
+        "list position": 9
+      },
+      {
+        "name": "Sarah Zickler",
+        "occupation": "Geschäftsführerin",
+        "list position": 10
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "5"
+  },
+  {
+    "short name": "DIE LINKE",
+    "full name": "DIE LINKE",
+    "candidates": [
+      {
+        "name": "Martin Schirdewan",
+        "occupation": "MdEP",
+        "list position": 1
+      },
+      {
+        "name": "Carola Rackete",
+        "occupation": "Ökologin",
+        "list position": 2
+      },
+      {
+        "name": "Özlem Demirel",
+        "occupation": "Gewerkschaftssekretärin bei ver.di",
+        "list position": 3
+      },
+      {
+        "name": "Gerhard Trabert",
+        "occupation": "Hochschullehrer, Sozial-Mediziner",
+        "list position": 4
+      },
+      {
+        "name": "Ines Schwerdtner",
+        "occupation": "Publizistin ",
+        "list position": 5
+      },
+      {
+        "name": "Martin Günther",
+        "occupation": "wissenschaftlicher Mitarbeiter",
+        "list position": 6
+      },
+      {
+        "name": "Desiree Becker",
+        "occupation": "Gewerkschaftssekretärin",
+        "list position": 7
+      },
+      {
+        "name": "Alexander Kauz",
+        "occupation": "Altersteilzeit",
+        "list position": 8
+      },
+      {
+        "name": "Lea Reisner",
+        "occupation": "MdB Mitarbeiterin",
+        "list position": 9
+      },
+      {
+        "name": "Lucas Fiola",
+        "occupation": "Angestellter Presse & Öffentlichkeitsarbeit ",
+        "list position": 10
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "6"
+  },
+  {
+    "short name": "SPD",
+    "full name": "SPD",
+    "candidates": [
+      {
+        "name": "Katarina Barley",
+        "occupation": "MdEP",
+        "list position": 1
+      },
+      {
+        "name": "Jens Geier",
+        "occupation": "MdEP",
+        "list position": 2
+      },
+      {
+        "name": "Maria Noichl",
+        "occupation": "MdEP",
+        "list position": 3
+      },
+      {
+        "name": "Bernd Lange",
+        "occupation": "MdEP",
+        "list position": 4
+      },
+      {
+        "name": "Birgit Sippel",
+        "occupation": "MdEP",
+        "list position": 5
+      },
+      {
+        "name": "René Repasi",
+        "occupation": null,
+        "list position": 6
+      },
+      {
+        "name": "Gabriele Bischoff",
+        "occupation": "MdEP",
+        "list position": 7
+      },
+      {
+        "name": "Udo Bullmann",
+        "occupation": "MdEP",
+        "list position": 8
+      },
+      {
+        "name": "Delara Burkhardt",
+        "occupation": "MdEP",
+        "list position": 9
+      },
+      {
+        "name": "Matthias Ecke",
+        "occupation": "Europaabgeordneter",
+        "list position": 10
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "3"
+  },
+  {
+    "short name": "Bündnis 90/Die Grünen",
+    "full name": "Bündnis 90/Die Grünen",
+    "candidates": [
+      {
+        "name": "Terry Reintke",
+        "occupation": "MdEP",
+        "list position": 1
+      },
+      {
+        "name": "Sergey Lagodinsky",
+        "occupation": "MdEP",
+        "list position": 2
+      },
+      {
+        "name": "Anna Cavazzini",
+        "occupation": "MdEP",
+        "list position": 3
+      },
+      {
+        "name": "Michael Bloss",
+        "occupation": "MdEP",
+        "list position": 4
+      },
+      {
+        "name": "Hannah Neumann",
+        "occupation": "MdEP",
+        "list position": 5
+      },
+      {
+        "name": "Martin Häusling",
+        "occupation": "MdEP",
+        "list position": 6
+      },
+      {
+        "name": "Katrin Langensiepen",
+        "occupation": "MdEP",
+        "list position": 7
+      },
+      {
+        "name": "Erik Marquardt",
+        "occupation": "MdEP",
+        "list position": 8
+      },
+      {
+        "name": "Jutta Paulus",
+        "occupation": "MdEP",
+        "list position": 9
+      },
+      {
+        "name": "Daniel Freund",
+        "occupation": "Europaabgeordneter",
+        "list position": 10
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "2"
+  },
+  {
+    "short name": "AfD",
+    "full name": "AfD",
+    "candidates": [
+      {
+        "name": "Maximilian Krah",
+        "occupation": null,
+        "list position": 1
+      },
+      {
+        "name": "Petr Bystron",
+        "occupation": null,
+        "list position": 2
+      },
+      {
+        "name": "René Aust",
+        "occupation": null,
+        "list position": 3
+      },
+      {
+        "name": "Christine Anderson",
+        "occupation": null,
+        "list position": 4
+      },
+      {
+        "name": "Alexander Jungbluth",
+        "occupation": null,
+        "list position": 5
+      },
+      {
+        "name": "Marc Jongen",
+        "occupation": null,
+        "list position": 6
+      },
+      {
+        "name": "Markus Buchheit",
+        "occupation": null,
+        "list position": 7
+      },
+      {
+        "name": "Hans Neuhoff",
+        "occupation": null,
+        "list position": 8
+      },
+      {
+        "name": "Irmhild Boßdorf",
+        "occupation": "Geschäftsführerin",
+        "list position": 9
+      },
+      {
+        "name": "Arno Bausemer",
+        "occupation": "Angestellter",
+        "list position": 10
+      }
+    ],
+    "election list": "Gemeinsame Liste für alle Länder",
+    "list_position": "4"
+  }
+]
