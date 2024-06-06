@@ -121,14 +121,26 @@ fun partei(party: ElectionListItem, selectedParty: ElectionListItem?, onPartySel
                     modifier = Modifier.background(color = Color.White).width(400.dp).padding(1.dp)
                 ) {
                     party.candidates.take(5).forEach { candidate ->
-                        Text(candidate.name)
+                        var canidateName = ""
+                        if(candidate.occupation != null) {
+                            canidateName = candidate.name + ", " + candidate.occupation
+                        }else {
+                            canidateName = candidate.name
+                        }
+                        Text(canidateName)
                     }
                 }
                 Column(
                     modifier = Modifier.background(color = Color.White).width(400.dp).padding(1.dp)
                 ) {
                     party.candidates.drop(5).take(5).forEach { candidate ->
-                        Text(candidate.name)
+                        var canidateName = ""
+                        if(candidate.occupation != null) {
+                            canidateName = candidate.name + ", " + candidate.occupation
+                        }else {
+                            canidateName = candidate.name
+                        }
+                        Text(canidateName)
                     }
                 }
             }

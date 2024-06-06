@@ -1,4 +1,5 @@
 # Todo
+- [ ] show occupation of candidate
 - [ ] Password in Config
 - [ ] Config file
 - [ ] Fix visual flaws
