@@ -1,7 +1,7 @@
 # Todo
 - [ ] show occupation of candidate
-- [ ] Password in Config
-- [ ] Config file
+- [x] Password in Config
+- [x] Config file
 - [ ] Fix visual flaws
 - [ ] Save vote using unique party identifier
 - [ ] fix election_list.json

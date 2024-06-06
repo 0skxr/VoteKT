@@ -182,6 +182,9 @@ fun main() = application {
     var verificationCode by remember { mutableStateOf("") }
     var showVerification by remember { mutableStateOf(true) }
 
+    val Config = Json.decodeFromString<Config>(readFileDirectlyAsText("config.json"))
+    val password = Config.password
+
     Window(onCloseRequest = ::exitApplication) {
 
         Box(
@@ -235,7 +238,7 @@ fun main() = application {
                     Button(
                         onClick = {
                             selectedParty = null
-                            if(verificationCode == "11235813") {
+                            if(verificationCode == password) {
                                 showVerification = false
                             }
                             verificationCode = ""
