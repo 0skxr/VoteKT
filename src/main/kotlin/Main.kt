@@ -164,7 +164,7 @@ fun Example(onClick: (String) -> Unit) {
 
 @OptIn(ExperimentalLayoutApi::class)
 fun main() = application {
-    val electionList = Json.decodeFromString<ElectionList>(readFileDirectlyAsText("election_list_new.json"))
+    val electionList = Json.decodeFromString<ElectionList>(readFileDirectlyAsText("election_list.json"))
     val sortedElectionList = electionList.sortByListPosition()
     var selectedParty by remember { mutableStateOf<ElectionListItem?>(null) }
     var verificationCode by remember { mutableStateOf("") }
