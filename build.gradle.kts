@@ -21,7 +21,6 @@ kotlin {
 
 dependencies {
     implementation(compose.desktop.currentOs)
-    implementation("com.mikepenz:multiplatform-markdown-renderer-jvm:0.20.0")
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.5.0")
     implementation("com.github.doyaaaaaken:kotlin-csv-jvm:1.9.3")
 }
