@@ -22,21 +22,22 @@ fun main() = application {
     var verificationCode by remember { mutableStateOf("") }
     var showVerification by remember { mutableStateOf(true) }
 
-    val Config = Json.decodeFromString<Config>(readFileDirectlyAsText("config.json"))
-    val password = Config.password
+    val config = Json.decodeFromString<Config>(readFileDirectlyAsText("config.json"))
+    val password = config.password
+    val votesPerPerson = config.votesPerPerson
 
+    var votesCast by remember { mutableStateOf(0) } // Zustand für abgegebene Stimmen
     var windowTitle by remember { mutableStateOf("Europawahl") }
 
-    Window(title = windowTitle,
+    Window(
+        title = windowTitle,
         resizable = true,
-        onCloseRequest = ::exitApplication ,
+        onCloseRequest = ::exitApplication,
     ) {
-
         Box(
             modifier = Modifier.fillMaxSize(),
             contentAlignment = Alignment.Center
         ) {
-
             if (!showVerification) {
                 LazyColumn(
                     horizontalAlignment = Alignment.CenterHorizontally
@@ -58,7 +59,7 @@ fun main() = application {
                             fontWeight = FontWeight.Bold
                         )
                         Text(
-                            text = "Sie haben 1 Stimme",
+                            text = "Sie haben ${votesPerPerson - votesCast} Stimme(n) verbleibend",
                             fontSize = 24.sp,
                             fontWeight = FontWeight.Bold
                         )
@@ -86,9 +87,9 @@ fun main() = application {
                             selectedParty = null
                             if (verificationCode == password) {
                                 showVerification = false
+                                votesCast = 0
                             }
                             verificationCode = ""
-
                         },
                         modifier = Modifier.padding(top = 16.dp),
                         colors = ButtonDefaults.buttonColors(backgroundColor = Color.Black)
@@ -102,20 +103,23 @@ fun main() = application {
             ConfirmVote { timestamp ->
                 val selectedPartyName = selectedParty?.shortName ?: ""
                 val votedParty = VotedParty(selectedPartyName, timestamp)
-                writeToCsv(votedParty)
-                selectedParty = null // Reset the selected party
-                showVerification = true
+                writeToCsv(votedParty,votesCast)
+                selectedParty = null
+                votesCast++
+                if (votesCast >= votesPerPerson) {
+                    showVerification = true
+                }
             }
         }
     }
 }
 
-fun writeToCsv(votedParty: VotedParty) {
+fun writeToCsv(votedParty: VotedParty,Type: Int) {
     val fileName = "voted_parties.csv"
     val file = File(fileName)
     val exists = file.exists()
-    val header = listOf("Party", "Timestamp")
-    val row = listOf(votedParty.party, votedParty.timestamp)
+    val header = listOf("Party", "Timestamp","Type")
+    val row = listOf(votedParty.party, votedParty.timestamp,Type)
 
     if (!exists) {
         csvWriter().open(fileName, append = false) {
