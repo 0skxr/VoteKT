@@ -1,0 +1,69 @@
+{
+    "kandidaten": [
+      {
+        "nummer": 1,
+        "name": "Schäfer, Ingo",
+        "partei": "SPD",
+        "partei_vollst": "Sozialdemokratische Partei Deutschlands",
+        "beruf": "Feuerwehrmann, Mitglied des Deutschen Bundestages",
+        "stadt": "Solingen"
+      },
+      {
+        "nummer": 2,
+        "name": "Hardt, Jürgen",
+        "partei": "CDU",
+        "partei_vollst": "Christlich Demokratische Union Deutschlands",
+        "beruf": "Diplomvolkswirt, Mitglied des Deutschen Bundestages",
+        "stadt": "Wuppertal"
+      },
+      {
+        "nummer": 3,
+        "name": "Kuhlendahl, Petra",
+        "partei": "GRÜNE",
+        "partei_vollst": "BÜNDNIS 90/DIE GRÜNEN",
+        "beruf": "Unternehmerin",
+        "stadt": "Remscheid"
+      },
+      {
+        "nummer": 4,
+        "name": "Schirm, Daniel Markus",
+        "partei": "FDP",
+        "partei_vollst": "Freie Demokratische Partei",
+        "beruf": "Student",
+        "stadt": "Solingen"
+      },
+      {
+        "nummer": 5,
+        "name": "Montag, Tobias Fabian",
+        "partei": "AfD",
+        "partei_vollst": "Alternative für Deutschland",
+        "beruf": "Politikwissenschaftler",
+        "stadt": "Solingen"
+      },
+      {
+        "nummer": 6,
+        "name": "Breuer, Rolf",
+        "partei": "Die Linke",
+        "partei_vollst": "Die Linke",
+        "beruf": "Informatiker",
+        "stadt": "Solingen"
+      },
+      {
+        "nummer": 12,
+        "name": "Stadler, Andreas",
+        "partei": "Volt",
+        "partei_vollst": "Volt Deutschland",
+        "beruf": "Elektrotechnikermeister",
+        "stadt": "Wuppertal"
+      },
+      {
+        "nummer": 13,
+        "name": "Gärtner, Christoph",
+        "partei": "MLPD",
+        "partei_vollst": "Marxistisch-Leninistische Partei Deutschlands",
+        "beruf": "Dipl.-Pädagoge i. R.",
+        "stadt": "Solingen"
+      }
+    ]
+  }
+  
